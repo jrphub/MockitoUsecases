@@ -1,3 +1,5 @@
+[![Maven Package](https://github.com/jrphub/MockitoUsecases/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/jrphub/MockitoUsecases/actions/workflows/maven-publish.yml)
+
 ### Learning usage of Mockito2 and Powermockito in various useful usecases
 
 ###### References
