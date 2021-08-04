@@ -1,5 +1,6 @@
 package com.mejrp.mockito2.staticMethods;
 
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
@@ -28,6 +29,7 @@ public class WelcomeUtilTest {
         assertEquals("Hi John", WelcomeUtil.generateWelcome("John"));
     }
 
+    @Ignore
     @Test
     public void generateWelcomeOutput() throws Exception {
         //No need to do mockStatic
